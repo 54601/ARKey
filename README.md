@@ -1,7 +1,7 @@
 # ARKey
 Keyboard and mouse controller for ARK
 
-This program is created to suit my own needs when playing ARK, you are welcomed to download, modify and use it at your own risk!
+This program is created to suit my own needs when playing ARK, you are welcomed to download, modify and use it at your own risk! To use, simply download controller.exe and run.
 
 features:
 1. CapsLock + 0~9 will trigger the same number in numeric keypad to be pressed. The same goes with CapsLock + '+'.
@@ -14,7 +14,7 @@ Known Bugs:
 
 适用于方舟：生存进化的键鼠控制器。
 
-这个软件是我自己玩方舟的小工具，欢迎下载、修改和应用，但是责任自负！
+这个软件是我自己玩方舟的小工具，欢迎下载、修改和应用，但是责任自负！下载controller.exe并运行即可使用。
 
 功能：
 1. CapsLock + 任意数字键/+号等于按下小键盘对应数字键/+号。
